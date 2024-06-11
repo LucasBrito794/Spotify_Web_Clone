@@ -4,7 +4,7 @@
 
 ### 🖥 Sobre o projeto
 - Projeto desenvolvido para simular o **web site** antigo do Spotify;
-- Utilizei a metodologia **mobile first** no desenvolvimento;
+- Utilizei a metodologia **mobile first**, **flexbox** e **grid** no desenvolvimento;
 - Neste projeto pude aprender novos conceitos e a como configurar o tailwind extendendo novas configurações que não vem por padrão nele;
 - Desenvolvido durante o curso de [Tailwind CSS do básico ao avançado + Projetos
 ](https://www.udemy.com/course/tailwind-css-do-basico-ao-avancado-com-projetos/?couponCode=ST21MT61124) com [Matheus Battisti](https://github.com/matheusbattisti/).
